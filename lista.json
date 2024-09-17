@@ -1,0 +1,48 @@
+{
+  "Hacienda": {
+    "items": [
+      {
+        "nombre": "Cigarros",
+        "imagen": "imagenes/cigarros.jpg"
+      },
+      {
+        "nombre": "Encendedor",
+        "imagen": "imagenes/encendedor.jpg"
+      },
+      {
+        "nombre": "Faja",
+        "imagen": "imagenes/faja.jpg"
+      },
+      {
+        "nombre": "Guantes",
+        "imagen": "imagenes/guantes.jpg"
+      },
+      {
+        "nombre": "Cepillo de dientes",
+        "imagen": "imagenes/cepillo.jpg"
+      },
+      {
+        "nombre": "Pasta de dientes",
+        "imagen": "imagenes/pasta.jpg"
+      },
+      {
+        "nombre": "Jabón",
+        "imagen": "imagenes/jabon.jpg"
+      },
+      {
+        "nombre": "Medicinas",
+        "detalle": ["aspirina", "paracetamol", "peptobismol"],
+        "imagen": "imagenes/medicinas.jpg"
+      },
+      {
+        "nombre": "Gel antibacterial",
+        "imagen": "imagenes/gel.jpg"
+      },
+      {
+        "nombre": "Libros",
+        "imagen": "imagenes/libros.jpg"
+      }
+      // Añade más elementos de la lista de la misma manera
+    ]
+  }
+}
